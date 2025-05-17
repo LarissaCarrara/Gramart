@@ -25,10 +25,4 @@ A ferramenta é desenvolvida com Google Gemini e Google ADK. Todo o processo de 
   - Windows (PowerShell):  
     `$env:GOOGLE_API_KEY="SUA_CHAVE_AQUI"`
 
-**Instalação:**
-```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DO_SEU_REPOSITORIO>
-pip install google-genai google-adk
-
 
