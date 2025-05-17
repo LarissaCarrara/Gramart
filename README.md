@@ -25,4 +25,5 @@ A ferramenta é desenvolvida com Google Gemini e Google ADK. Todo o processo de 
   - Windows (PowerShell):  
     `$env:GOOGLE_API_KEY="SUA_CHAVE_AQUI"`
 
+![Sem título](https://github.com/user-attachments/assets/1830eac6-8dbd-4c8e-9d49-0ded4b416171)
 
